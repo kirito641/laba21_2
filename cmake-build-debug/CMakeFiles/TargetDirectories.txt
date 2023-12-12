@@ -1,0 +1,3 @@
+C:/Users/Dismal Lord/CLionProjects/laba21_2/cmake-build-debug/CMakeFiles/laba21_2.dir
+C:/Users/Dismal Lord/CLionProjects/laba21_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dismal Lord/CLionProjects/laba21_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
